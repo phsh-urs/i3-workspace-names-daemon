@@ -432,6 +432,7 @@ icons = {
     "fire": u"\uf06d",
     "fire-extinguisher": u"\uf134",
     "firefox": u"\uf269",
+    "firefox-browser": u"\ue007",
     "first-aid": u"\uf479",
     "first-order": u"\uf2b0",
     "first-order-alt": u"\uf50a",
